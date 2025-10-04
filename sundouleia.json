@@ -21,11 +21,12 @@
     "DownloadCount": 0,
     "IconUrl": "https://raw.githubusercontent.com/Sundouleia/repo/main/Images/icon.png",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "",
-    "DownloadLinkTesting": "",
-    "DownloadLinkUpdate": ""
+    "DownloadLinkInstall": "https://files.kinkporium.studio/releases/sundouleia/0.0.1.0.zip",
+    "DownloadLinkTesting": "https://files.kinkporium.studio/releases/sundouleia/0.0.1.0.zip",
+    "DownloadLinkUpdate": "https://files.kinkporium.studio/releases/sundouleia/0.0.1.0.zip"
   }
 ]
+
 
 
 
