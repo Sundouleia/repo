@@ -3,7 +3,7 @@
     "Author": "Cordelia",
     "Name": "Sundouleia",
     "InternalName": "Sundouleia",
-    "AssemblyVersion": "0.0.8.3",
+    "AssemblyVersion": "0.0.8.4",
     "Punchline": "See the sun set... the day is ending... let that yawn out... theres no pretending...",
     "Description": "Handled with care. Always careful of the impacts our choices make, and how they affect the future ahead of us.",
     "RepoUrl": "https://github.com/Sundouleia/client",
@@ -21,11 +21,12 @@
     "DownloadCount": 0,
     "IconUrl": "https://raw.githubusercontent.com/Sundouleia/repo/main/Images/icon.png",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://files.kinkporium.studio/releases/sundouleia/0.0.8.3.zip",
-    "DownloadLinkTesting": "https://files.kinkporium.studio/releases/sundouleia/0.0.8.3.zip",
-    "DownloadLinkUpdate": "https://files.kinkporium.studio/releases/sundouleia/0.0.8.3.zip"
+    "DownloadLinkInstall": "https://files.kinkporium.studio/releases/sundouleia/0.0.8.4.zip",
+    "DownloadLinkTesting": "https://files.kinkporium.studio/releases/sundouleia/0.0.8.4.zip",
+    "DownloadLinkUpdate": "https://files.kinkporium.studio/releases/sundouleia/0.0.8.4.zip"
   }
 ]
+
 
 
 
