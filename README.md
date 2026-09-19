@@ -18,5 +18,12 @@ https://raw.githubusercontent.com/Sundouleia/repo/main/sundouleia.json
 - Keep in touch with a SanctionChat.
 - Optionally sync up with a SanctionSync.
 
+<p>
+  Sundouleia took inspiration from mares tech stack and identified ways the service as a whole could be improved.
+  It had to be remade from the ground up, pivoting to a new architecture for its vision to be fulfilled. <br>
+  This new structure prioritizes micro-optimizations, efficiency, effectively instant response time, and near limitless scalability for all of its features.
+</p>
+
 For more information, visit: https://github.com/Sundouleia
 ![Banner Image](https://raw.githubusercontent.com/Sundouleia/repo/main/Images/Banner.png)
+
